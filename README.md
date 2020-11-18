@@ -4,4 +4,4 @@ In this project I implement my own version of googlemaps !
 <br>
 # Primary Terrain
 The primary terrain is given in the terrain.png file and the elevations are stored in the elevations.txt file.
-<img src="terrain.png", title = "Original Terrain">
+<img src="terrain.png" title="Original Terrain">
