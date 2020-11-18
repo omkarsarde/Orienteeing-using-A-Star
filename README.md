@@ -1,2 +1,2 @@
-# Orienteeing using A Star
- 
+# Orienteering using A Star
+
