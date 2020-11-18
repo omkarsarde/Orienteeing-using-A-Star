@@ -10,8 +10,8 @@ The primary terrain is given in the terrain.png file and the elevations are stor
 main.py terrain.png elevations.txt path1.txt winter output.png
 ```
 <br> I induce season changes through freezing waters (I live in Rochester duh !), indicated through a cyan color on water body egdes and make them traversible albeit with a slow speed.
-<br> In Spring areas near water bodies towards inlands become marshy, reduce speed and are depicted brown. Other changes are made for fall (leaves on ground through yellow) and Summer (No change).
-<br> The pathfinder takes into account all these variables and finds the shortest route given points to traverse !
+<br> In Spring areas near water bodies towards inlands become marshy, reduce speed and are depicted brown. Other changes are made for fall (leaves on ground through yellow) and Summer (No change). 
+<br> The pathfinder takes into account all these variables and finds the shortest route given points to traverse and plots a path in red!
  <table>
   <tr>
     <td>Original Terrain</td>
